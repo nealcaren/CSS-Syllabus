@@ -6,3 +6,4 @@
 | Chicago  | [Computing for the Social Sciences](https://cfss.uchicago.edu/setup/)                 | R        |
 | University of Zürich  | [Ideational Foundations of Computational Social Science](https://andreasjungherr.net/wp-content/uploads/2018/09/Jungherr-2018-Ideational-Foundations-of-Computational-Social-Science-Syllabus.pdf) | Python |
 | University of Southern California | [POIR 613: Computational Social Science](http://pablobarbera.com/POIR613/index.html) | R|
+| SICSS | [SICSS: Learning Materials](https://sicss.io/curriculum) | R|
